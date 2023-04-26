@@ -1,2 +1,2 @@
-# webdesgin
+# webdesign
 web projects hosting place
